@@ -252,6 +252,3 @@ def big_shoe_rebounds
   end
   game_hash[biggest_shoe_home_or_away][:players][biggest_shoe_player][:rebounds]
 end
-
-
-big_shoe_rebounds()
